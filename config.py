@@ -4,16 +4,16 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", "21803165"))
-API_HASH = getenv("API_HASH", "05e5e695feb30e25bef47484cc006da7")
-BOT_TOKEN = getenv("BOT_TOKEN", None)
-OWNER_ID = int(getenv("OWNER_ID", "7403621976"))
-MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "+OL6jdTL7JAJjYzVl")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "BABY09_WORLD")
-MUSIC = getenv("MUSIC", "BABY_MUSIC09_BOT")
+API_ID = int(getenv("API_ID", "27015202"))
+API_HASH = getenv("API_HASH", "b817ca2d21c5471522ec93b819301d56")
+BOT_TOKEN = getenv("BOT_TOKEN", "7821128321:AAHUy0jo5JFoRTmYNNf5xBwLxrqxTQ_1oac")
+OWNER_ID = int(getenv("OWNER_ID", "5789538424"))
+MONGO_URL = getenv("MONGO_URL", "mongodb+srv://nitishkypaurai17:RAJKUMARMOVIE@rajkumarmovie.qjhjk.mongodb.net/?retryWrites=true&w=majority&appName=RAJKUMARMOVIE")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "+W3cejbcBstU0Yjdl")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "bestshayri_raj")
+MUSIC = getenv("MUSIC", "II_RAJMUSIC_IIBOT")
 REPO = getenv("REPO", " RADHIKA")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "UTTAM470")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "promotionyoutubr")
 
 # Random Start Images
 IMG = [
